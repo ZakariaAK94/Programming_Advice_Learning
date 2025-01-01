@@ -1,0 +1,67 @@
+C:\Users\Zakaria-AK\source\repos\MyFirstWinFormsProject1\bin\Debug\MyFirstWinFormsProject1.exe.config
+C:\Users\Zakaria-AK\source\repos\MyFirstWinFormsProject1\bin\Debug\MyFirstWinFormsProject1.exe
+C:\Users\Zakaria-AK\source\repos\MyFirstWinFormsProject1\bin\Debug\MyFirstWinFormsProject1.pdb
+C:\Users\Zakaria-AK\source\repos\MyFirstWinFormsProject1\obj\Debug\MyFirstWinFormsProject1.csproj.AssemblyReference.cache
+C:\Users\Zakaria-AK\source\repos\MyFirstWinFormsProject1\obj\Debug\MyFirstWinFormsProject1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zakaria-AK\source\repos\MyFirstWinFormsProject1\obj\Debug\MyFirstWinFormsProject1.Form1.resources
+C:\Users\Zakaria-AK\source\repos\MyFirstWinFormsProject1\obj\Debug\MyFirstWinFormsProject1.Properties.Resources.resources
+C:\Users\Zakaria-AK\source\repos\MyFirstWinFormsProject1\obj\Debug\MyFirstWinFormsProject1.csproj.GenerateResource.cache
+C:\Users\Zakaria-AK\source\repos\MyFirstWinFormsProject1\obj\Debug\MyFirstWinFormsProject1.csproj.CoreCompileInputs.cache
+C:\Users\Zakaria-AK\source\repos\MyFirstWinFormsProject1\obj\Debug\MyFirstWinFormsProject1.exe
+C:\Users\Zakaria-AK\source\repos\MyFirstWinFormsProject1\obj\Debug\MyFirstWinFormsProject1.pdb
+C:\Users\Zakaria-AK\source\repos\MyFirstWinFormsProject1\obj\Debug\MyFirstWinFormsProject1.FormZack.resources
+C:\Users\Zakaria-AK\source\repos\MyFirstWinFormsProject1\obj\Debug\MyFirstWinFormsProject1.frmMessageBox.resources
+C:\Users\Zakaria-AK\source\repos\MyFirstWinFormsProject1\obj\Debug\MyFirstWinFormsProject1.frmChkRadioGroup.resources
+C:\Users\Zakaria-AK\source\repos\MyFirstWinFormsProject1\obj\Debug\MyFirstWinFormsProject1.frmImageTest.resources
+C:\Users\Zakaria-AK\source\repos\MyFirstWinFormsProject1\obj\Debug\MyFirstWinFormsProject1.frmDrawing.resources
+C:\Users\Zakaria-AK\source\repos\MyFirstWinFormsProject1\obj\Debug\MyFirstWinFormsProject1.frmCheckListBox.resources
+C:\Users\Zakaria-AK\source\repos\MyFirstWinFormsProject1\obj\Debug\MyFirstWinFormsProject1.frmDateTimeProperties.resources
+C:\Users\Zakaria-AK\source\repos\MyFirstWinFormsProject1\obj\Debug\MyFirstWinFormsProject1.frmTreeViewAndImageList.resources
+C:\Users\Zakaria-AK\source\repos\MyFirstWinFormsProject1\obj\Debug\MyFirstWinFormsProject1.frmProgressBar.resources
+C:\Users\Zakaria-AK\source\repos\MyFirstWinFormsProject1\obj\Debug\MyFirstWinFormsProject1.frmListView.resources
+C:\Users\Zakaria-AK\source\repos\MyFirstWinFormsProject1\obj\Debug\MyFirstWinFormsProject1.frmTrackBar.resources
+C:\Users\Zakaria-AK\source\repos\MyFirstWinFormsProject1\obj\Debug\MyFirstWinFormsProject1.frmDialogs.resources
+C:\Users\AKILZA\source\repos\Programming Advice\Programming_Advice_Practices\MyFirstWinFormsProject1\bin\Debug\MyFirstWinFormsProject1.exe.config
+C:\Users\AKILZA\source\repos\Programming Advice\Programming_Advice_Practices\MyFirstWinFormsProject1\bin\Debug\MyFirstWinFormsProject1.exe
+C:\Users\AKILZA\source\repos\Programming Advice\Programming_Advice_Practices\MyFirstWinFormsProject1\bin\Debug\MyFirstWinFormsProject1.pdb
+C:\Users\AKILZA\source\repos\Programming Advice\Programming_Advice_Practices\MyFirstWinFormsProject1\obj\Debug\MyFirstWinFormsProject1.csproj.AssemblyReference.cache
+C:\Users\AKILZA\source\repos\Programming Advice\Programming_Advice_Practices\MyFirstWinFormsProject1\obj\Debug\MyFirstWinFormsProject1.Form1.resources
+C:\Users\AKILZA\source\repos\Programming Advice\Programming_Advice_Practices\MyFirstWinFormsProject1\obj\Debug\MyFirstWinFormsProject1.FormZack.resources
+C:\Users\AKILZA\source\repos\Programming Advice\Programming_Advice_Practices\MyFirstWinFormsProject1\obj\Debug\MyFirstWinFormsProject1.frmCheckListBox.resources
+C:\Users\AKILZA\source\repos\Programming Advice\Programming_Advice_Practices\MyFirstWinFormsProject1\obj\Debug\MyFirstWinFormsProject1.frmChkRadioGroup.resources
+C:\Users\AKILZA\source\repos\Programming Advice\Programming_Advice_Practices\MyFirstWinFormsProject1\obj\Debug\MyFirstWinFormsProject1.frmDateTimeProperties.resources
+C:\Users\AKILZA\source\repos\Programming Advice\Programming_Advice_Practices\MyFirstWinFormsProject1\obj\Debug\MyFirstWinFormsProject1.frmDialogs.resources
+C:\Users\AKILZA\source\repos\Programming Advice\Programming_Advice_Practices\MyFirstWinFormsProject1\obj\Debug\MyFirstWinFormsProject1.frmDrawing.resources
+C:\Users\AKILZA\source\repos\Programming Advice\Programming_Advice_Practices\MyFirstWinFormsProject1\obj\Debug\MyFirstWinFormsProject1.frmImageTest.resources
+C:\Users\AKILZA\source\repos\Programming Advice\Programming_Advice_Practices\MyFirstWinFormsProject1\obj\Debug\MyFirstWinFormsProject1.frmListView.resources
+C:\Users\AKILZA\source\repos\Programming Advice\Programming_Advice_Practices\MyFirstWinFormsProject1\obj\Debug\MyFirstWinFormsProject1.frmMessageBox.resources
+C:\Users\AKILZA\source\repos\Programming Advice\Programming_Advice_Practices\MyFirstWinFormsProject1\obj\Debug\MyFirstWinFormsProject1.frmProgressBar.resources
+C:\Users\AKILZA\source\repos\Programming Advice\Programming_Advice_Practices\MyFirstWinFormsProject1\obj\Debug\MyFirstWinFormsProject1.frmTrackBar.resources
+C:\Users\AKILZA\source\repos\Programming Advice\Programming_Advice_Practices\MyFirstWinFormsProject1\obj\Debug\MyFirstWinFormsProject1.frmTreeViewAndImageList.resources
+C:\Users\AKILZA\source\repos\Programming Advice\Programming_Advice_Practices\MyFirstWinFormsProject1\obj\Debug\MyFirstWinFormsProject1.Properties.Resources.resources
+C:\Users\AKILZA\source\repos\Programming Advice\Programming_Advice_Practices\MyFirstWinFormsProject1\obj\Debug\MyFirstWinFormsProject1.csproj.GenerateResource.cache
+C:\Users\AKILZA\source\repos\Programming Advice\Programming_Advice_Practices\MyFirstWinFormsProject1\obj\Debug\MyFirstWinFormsProject1.csproj.CoreCompileInputs.cache
+C:\Users\AKILZA\source\repos\Programming Advice\Programming_Advice_Practices\MyFirstWinFormsProject1\obj\Debug\MyFirstWinFormsProject1.exe
+C:\Users\AKILZA\source\repos\Programming Advice\Programming_Advice_Practices\MyFirstWinFormsProject1\obj\Debug\MyFirstWinFormsProject1.pdb
+C:\Users\AKILZA\source\repos\Programming Advice\What I already put in github from PR Advice\WindowFormApp\MyFirstWinFormsProject1 - Copy - Copy\bin\Debug\MyFirstWinFormsProject1.exe.config
+C:\Users\AKILZA\source\repos\Programming Advice\What I already put in github from PR Advice\WindowFormApp\MyFirstWinFormsProject1 - Copy - Copy\bin\Debug\MyFirstWinFormsProject1.exe
+C:\Users\AKILZA\source\repos\Programming Advice\What I already put in github from PR Advice\WindowFormApp\MyFirstWinFormsProject1 - Copy - Copy\bin\Debug\MyFirstWinFormsProject1.pdb
+C:\Users\AKILZA\source\repos\Programming Advice\What I already put in github from PR Advice\WindowFormApp\MyFirstWinFormsProject1 - Copy - Copy\obj\Debug\MyFirstWinFormsProject1.csproj.AssemblyReference.cache
+C:\Users\AKILZA\source\repos\Programming Advice\What I already put in github from PR Advice\WindowFormApp\MyFirstWinFormsProject1 - Copy - Copy\obj\Debug\MyFirstWinFormsProject1.Form1.resources
+C:\Users\AKILZA\source\repos\Programming Advice\What I already put in github from PR Advice\WindowFormApp\MyFirstWinFormsProject1 - Copy - Copy\obj\Debug\MyFirstWinFormsProject1.FormZack.resources
+C:\Users\AKILZA\source\repos\Programming Advice\What I already put in github from PR Advice\WindowFormApp\MyFirstWinFormsProject1 - Copy - Copy\obj\Debug\MyFirstWinFormsProject1.frmCheckListBox.resources
+C:\Users\AKILZA\source\repos\Programming Advice\What I already put in github from PR Advice\WindowFormApp\MyFirstWinFormsProject1 - Copy - Copy\obj\Debug\MyFirstWinFormsProject1.frmChkRadioGroup.resources
+C:\Users\AKILZA\source\repos\Programming Advice\What I already put in github from PR Advice\WindowFormApp\MyFirstWinFormsProject1 - Copy - Copy\obj\Debug\MyFirstWinFormsProject1.frmDateTimeProperties.resources
+C:\Users\AKILZA\source\repos\Programming Advice\What I already put in github from PR Advice\WindowFormApp\MyFirstWinFormsProject1 - Copy - Copy\obj\Debug\MyFirstWinFormsProject1.frmDialogs.resources
+C:\Users\AKILZA\source\repos\Programming Advice\What I already put in github from PR Advice\WindowFormApp\MyFirstWinFormsProject1 - Copy - Copy\obj\Debug\MyFirstWinFormsProject1.frmDrawing.resources
+C:\Users\AKILZA\source\repos\Programming Advice\What I already put in github from PR Advice\WindowFormApp\MyFirstWinFormsProject1 - Copy - Copy\obj\Debug\MyFirstWinFormsProject1.frmImageTest.resources
+C:\Users\AKILZA\source\repos\Programming Advice\What I already put in github from PR Advice\WindowFormApp\MyFirstWinFormsProject1 - Copy - Copy\obj\Debug\MyFirstWinFormsProject1.frmListView.resources
+C:\Users\AKILZA\source\repos\Programming Advice\What I already put in github from PR Advice\WindowFormApp\MyFirstWinFormsProject1 - Copy - Copy\obj\Debug\MyFirstWinFormsProject1.frmMessageBox.resources
+C:\Users\AKILZA\source\repos\Programming Advice\What I already put in github from PR Advice\WindowFormApp\MyFirstWinFormsProject1 - Copy - Copy\obj\Debug\MyFirstWinFormsProject1.frmProgressBar.resources
+C:\Users\AKILZA\source\repos\Programming Advice\What I already put in github from PR Advice\WindowFormApp\MyFirstWinFormsProject1 - Copy - Copy\obj\Debug\MyFirstWinFormsProject1.frmTrackBar.resources
+C:\Users\AKILZA\source\repos\Programming Advice\What I already put in github from PR Advice\WindowFormApp\MyFirstWinFormsProject1 - Copy - Copy\obj\Debug\MyFirstWinFormsProject1.frmTreeViewAndImageList.resources
+C:\Users\AKILZA\source\repos\Programming Advice\What I already put in github from PR Advice\WindowFormApp\MyFirstWinFormsProject1 - Copy - Copy\obj\Debug\MyFirstWinFormsProject1.Properties.Resources.resources
+C:\Users\AKILZA\source\repos\Programming Advice\What I already put in github from PR Advice\WindowFormApp\MyFirstWinFormsProject1 - Copy - Copy\obj\Debug\MyFirstWinFormsProject1.csproj.GenerateResource.cache
+C:\Users\AKILZA\source\repos\Programming Advice\What I already put in github from PR Advice\WindowFormApp\MyFirstWinFormsProject1 - Copy - Copy\obj\Debug\MyFirstWinFormsProject1.csproj.CoreCompileInputs.cache
+C:\Users\AKILZA\source\repos\Programming Advice\What I already put in github from PR Advice\WindowFormApp\MyFirstWinFormsProject1 - Copy - Copy\obj\Debug\MyFirstWinFormsProject1.exe
+C:\Users\AKILZA\source\repos\Programming Advice\What I already put in github from PR Advice\WindowFormApp\MyFirstWinFormsProject1 - Copy - Copy\obj\Debug\MyFirstWinFormsProject1.pdb

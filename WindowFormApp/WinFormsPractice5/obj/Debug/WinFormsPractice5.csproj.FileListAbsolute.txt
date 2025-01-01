@@ -1,0 +1,10 @@
+C:\Users\AKILZA\source\repos\Programming Advice\What I already put in github from PR Advice\WindowFormApp\WinFormsPractice5\bin\Debug\MyFirstWinFormsProject1.exe.config
+C:\Users\AKILZA\source\repos\Programming Advice\What I already put in github from PR Advice\WindowFormApp\WinFormsPractice5\bin\Debug\MyFirstWinFormsProject1.exe
+C:\Users\AKILZA\source\repos\Programming Advice\What I already put in github from PR Advice\WindowFormApp\WinFormsPractice5\bin\Debug\MyFirstWinFormsProject1.pdb
+C:\Users\AKILZA\source\repos\Programming Advice\What I already put in github from PR Advice\WindowFormApp\WinFormsPractice5\obj\Debug\WinFormsPractice5.csproj.AssemblyReference.cache
+C:\Users\AKILZA\source\repos\Programming Advice\What I already put in github from PR Advice\WindowFormApp\WinFormsPractice5\obj\Debug\WinFormsPractice5.frmListView.resources
+C:\Users\AKILZA\source\repos\Programming Advice\What I already put in github from PR Advice\WindowFormApp\WinFormsPractice5\obj\Debug\MyFirstWinFormsProject1.Properties.Resources.resources
+C:\Users\AKILZA\source\repos\Programming Advice\What I already put in github from PR Advice\WindowFormApp\WinFormsPractice5\obj\Debug\WinFormsPractice5.csproj.GenerateResource.cache
+C:\Users\AKILZA\source\repos\Programming Advice\What I already put in github from PR Advice\WindowFormApp\WinFormsPractice5\obj\Debug\WinFormsPractice5.csproj.CoreCompileInputs.cache
+C:\Users\AKILZA\source\repos\Programming Advice\What I already put in github from PR Advice\WindowFormApp\WinFormsPractice5\obj\Debug\MyFirstWinFormsProject1.exe
+C:\Users\AKILZA\source\repos\Programming Advice\What I already put in github from PR Advice\WindowFormApp\WinFormsPractice5\obj\Debug\MyFirstWinFormsProject1.pdb
