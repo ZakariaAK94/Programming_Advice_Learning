@@ -1,0 +1,22 @@
+C:\Users\AKILZA\source\repos\UserControlTest1\UserControlTest1\bin\Debug\UserControlTest1.exe.config
+C:\Users\AKILZA\source\repos\UserControlTest1\UserControlTest1\bin\Debug\UserControlTest1.exe
+C:\Users\AKILZA\source\repos\UserControlTest1\UserControlTest1\bin\Debug\UserControlTest1.pdb
+C:\Users\AKILZA\source\repos\UserControlTest1\UserControlTest1\obj\Debug\UserControlTest1.csproj.AssemblyReference.cache
+C:\Users\AKILZA\source\repos\UserControlTest1\UserControlTest1\obj\Debug\UserControlTest1.CtrlSimpleCalc.resources
+C:\Users\AKILZA\source\repos\UserControlTest1\UserControlTest1\obj\Debug\UserControlTest1.Form1.resources
+C:\Users\AKILZA\source\repos\UserControlTest1\UserControlTest1\obj\Debug\UserControlTest1.Properties.Resources.resources
+C:\Users\AKILZA\source\repos\UserControlTest1\UserControlTest1\obj\Debug\UserControlTest1.csproj.GenerateResource.cache
+C:\Users\AKILZA\source\repos\UserControlTest1\UserControlTest1\obj\Debug\UserControlTest1.csproj.CoreCompileInputs.cache
+C:\Users\AKILZA\source\repos\UserControlTest1\UserControlTest1\obj\Debug\UserControlTest1.exe
+C:\Users\AKILZA\source\repos\UserControlTest1\UserControlTest1\obj\Debug\UserControlTest1.pdb
+C:\Users\AKILZA\source\repos\Programming Advice\Programming_Advice_Practices\UserControlTest1\UserControlTest1\bin\Debug\UserControlTest1.exe.config
+C:\Users\AKILZA\source\repos\Programming Advice\Programming_Advice_Practices\UserControlTest1\UserControlTest1\bin\Debug\UserControlTest1.exe
+C:\Users\AKILZA\source\repos\Programming Advice\Programming_Advice_Practices\UserControlTest1\UserControlTest1\bin\Debug\UserControlTest1.pdb
+C:\Users\AKILZA\source\repos\Programming Advice\Programming_Advice_Practices\UserControlTest1\UserControlTest1\obj\Debug\UserControlTest1.csproj.AssemblyReference.cache
+C:\Users\AKILZA\source\repos\Programming Advice\Programming_Advice_Practices\UserControlTest1\UserControlTest1\obj\Debug\UserControlTest1.CtrlSimpleCalc.resources
+C:\Users\AKILZA\source\repos\Programming Advice\Programming_Advice_Practices\UserControlTest1\UserControlTest1\obj\Debug\UserControlTest1.Form1.resources
+C:\Users\AKILZA\source\repos\Programming Advice\Programming_Advice_Practices\UserControlTest1\UserControlTest1\obj\Debug\UserControlTest1.Properties.Resources.resources
+C:\Users\AKILZA\source\repos\Programming Advice\Programming_Advice_Practices\UserControlTest1\UserControlTest1\obj\Debug\UserControlTest1.csproj.GenerateResource.cache
+C:\Users\AKILZA\source\repos\Programming Advice\Programming_Advice_Practices\UserControlTest1\UserControlTest1\obj\Debug\UserControlTest1.csproj.CoreCompileInputs.cache
+C:\Users\AKILZA\source\repos\Programming Advice\Programming_Advice_Practices\UserControlTest1\UserControlTest1\obj\Debug\UserControlTest1.exe
+C:\Users\AKILZA\source\repos\Programming Advice\Programming_Advice_Practices\UserControlTest1\UserControlTest1\obj\Debug\UserControlTest1.pdb

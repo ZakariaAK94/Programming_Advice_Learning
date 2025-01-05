@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Name": "ReactWithASP.Server\\ReactWithASP.Server.csproj",
+        "Action": "Start"
+      },
+      {
+        "Name": "reactwithasp.client\\reactwithasp.client.esproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

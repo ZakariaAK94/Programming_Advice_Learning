@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AKILZA\\source\\repos\\Programming Advice\\Programming_Advice_Practices\\UserControlTest1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DED7AC31-D329-436F-B53E-F3E39FADE683}|UserControlTest1\\UserControlTest1.csproj|c:\\users\\akilza\\source\\repos\\programming advice\\programming_advice_practices\\usercontroltest1\\usercontroltest1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DED7AC31-D329-436F-B53E-F3E39FADE683}|UserControlTest1\\UserControlTest1.csproj|solutionrelative:usercontroltest1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED7AC31-D329-436F-B53E-F3E39FADE683}|UserControlTest1\\UserControlTest1.csproj|C:\\Users\\AKILZA\\source\\repos\\Programming Advice\\Programming_Advice_Practices\\UserControlTest1\\usercontroltest1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DED7AC31-D329-436F-B53E-F3E39FADE683}|UserControlTest1\\UserControlTest1.csproj|solutionrelative:usercontroltest1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED7AC31-D329-436F-B53E-F3E39FADE683}|UserControlTest1\\UserControlTest1.csproj|C:\\Users\\AKILZA\\source\\repos\\Programming Advice\\Programming_Advice_Practices\\UserControlTest1\\usercontroltest1\\ctrlsimplecalc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DED7AC31-D329-436F-B53E-F3E39FADE683}|UserControlTest1\\UserControlTest1.csproj|solutionrelative:usercontroltest1\\ctrlsimplecalc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED7AC31-D329-436F-B53E-F3E39FADE683}|UserControlTest1\\UserControlTest1.csproj|C:\\Users\\AKILZA\\source\\repos\\Programming Advice\\Programming_Advice_Practices\\UserControlTest1\\usercontroltest1\\ctrlsimplecalc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DED7AC31-D329-436F-B53E-F3E39FADE683}|UserControlTest1\\UserControlTest1.csproj|solutionrelative:usercontroltest1\\ctrlsimplecalc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AKILZA\\source\\repos\\Programming Advice\\Programming_Advice_Practices\\UserControlTest1\\UserControlTest1\\Form1.cs",
+              "RelativeDocumentMoniker": "UserControlTest1\\Form1.cs",
+              "ToolTip": "C:\\Users\\AKILZA\\source\\repos\\Programming Advice\\Programming_Advice_Practices\\UserControlTest1\\UserControlTest1\\Form1.cs [Design]",
+              "RelativeToolTip": "UserControlTest1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T18:23:33.506Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\AKILZA\\source\\repos\\Programming Advice\\Programming_Advice_Practices\\UserControlTest1\\UserControlTest1\\Form1.cs",
+              "RelativeDocumentMoniker": "UserControlTest1\\Form1.cs",
+              "ToolTip": "C:\\Users\\AKILZA\\source\\repos\\Programming Advice\\Programming_Advice_Practices\\UserControlTest1\\UserControlTest1\\Form1.cs",
+              "RelativeToolTip": "UserControlTest1\\Form1.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAEwBgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T19:31:12.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CtrlSimpleCalc.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AKILZA\\source\\repos\\Programming Advice\\Programming_Advice_Practices\\UserControlTest1\\UserControlTest1\\CtrlSimpleCalc.cs",
+              "RelativeDocumentMoniker": "UserControlTest1\\CtrlSimpleCalc.cs",
+              "ToolTip": "C:\\Users\\AKILZA\\source\\repos\\UserControlTest1\\UserControlTest1\\CtrlSimpleCalc.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\UserControlTest1\\UserControlTest1\\CtrlSimpleCalc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T18:41:24.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CtrlSimpleCalc.cs",
+              "DocumentMoniker": "C:\\Users\\AKILZA\\source\\repos\\Programming Advice\\Programming_Advice_Practices\\UserControlTest1\\UserControlTest1\\CtrlSimpleCalc.cs",
+              "RelativeDocumentMoniker": "UserControlTest1\\CtrlSimpleCalc.cs",
+              "ToolTip": "C:\\Users\\AKILZA\\source\\repos\\Programming Advice\\Programming_Advice_Practices\\UserControlTest1\\UserControlTest1\\CtrlSimpleCalc.cs",
+              "RelativeToolTip": "UserControlTest1\\CtrlSimpleCalc.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAABAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T19:22:43.506Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

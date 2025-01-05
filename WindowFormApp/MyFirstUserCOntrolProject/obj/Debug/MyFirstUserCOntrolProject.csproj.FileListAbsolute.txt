@@ -1,0 +1,25 @@
+C:\Users\Zakaria-AK\source\repos\MyFirstUserCOntrolProject\bin\Debug\MyFirstUserCOntrolProject.exe.config
+C:\Users\Zakaria-AK\source\repos\MyFirstUserCOntrolProject\bin\Debug\MyFirstUserCOntrolProject.exe
+C:\Users\Zakaria-AK\source\repos\MyFirstUserCOntrolProject\bin\Debug\MyFirstUserCOntrolProject.pdb
+C:\Users\Zakaria-AK\source\repos\MyFirstUserCOntrolProject\obj\Debug\MyFirstUserCOntrolProject.csproj.AssemblyReference.cache
+C:\Users\Zakaria-AK\source\repos\MyFirstUserCOntrolProject\obj\Debug\MyFirstUserCOntrolProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zakaria-AK\source\repos\MyFirstUserCOntrolProject\obj\Debug\MyFirstUserCOntrolProject.crtlSimpleCalc.resources
+C:\Users\Zakaria-AK\source\repos\MyFirstUserCOntrolProject\obj\Debug\MyFirstUserCOntrolProject.Properties.Resources.resources
+C:\Users\Zakaria-AK\source\repos\MyFirstUserCOntrolProject\obj\Debug\MyFirstUserCOntrolProject.csproj.GenerateResource.cache
+C:\Users\Zakaria-AK\source\repos\MyFirstUserCOntrolProject\obj\Debug\MyFirstUserCOntrolProject.csproj.CoreCompileInputs.cache
+C:\Users\Zakaria-AK\source\repos\MyFirstUserCOntrolProject\obj\Debug\MyFirstUserCOntrolProject.exe
+C:\Users\Zakaria-AK\source\repos\MyFirstUserCOntrolProject\obj\Debug\MyFirstUserCOntrolProject.pdb
+C:\Users\Zakaria-AK\source\repos\MyFirstUserCOntrolProject\obj\Debug\MyFirstUserCOntrolProject.Form1.resources
+C:\Users\Zakaria-AK\source\repos\MyFirstUserCOntrolProject\obj\Debug\MyFirstUserCOntrolProject.Form2.resources
+C:\Users\AKILZA\source\repos\Programming Advice\Programming_Advice_Practices\MyFirstUserCOntrolProject\bin\Debug\MyFirstUserCOntrolProject.exe.config
+C:\Users\AKILZA\source\repos\Programming Advice\Programming_Advice_Practices\MyFirstUserCOntrolProject\bin\Debug\MyFirstUserCOntrolProject.exe
+C:\Users\AKILZA\source\repos\Programming Advice\Programming_Advice_Practices\MyFirstUserCOntrolProject\bin\Debug\MyFirstUserCOntrolProject.pdb
+C:\Users\AKILZA\source\repos\Programming Advice\Programming_Advice_Practices\MyFirstUserCOntrolProject\obj\Debug\MyFirstUserCOntrolProject.csproj.AssemblyReference.cache
+C:\Users\AKILZA\source\repos\Programming Advice\Programming_Advice_Practices\MyFirstUserCOntrolProject\obj\Debug\MyFirstUserCOntrolProject.crtlSimpleCalc.resources
+C:\Users\AKILZA\source\repos\Programming Advice\Programming_Advice_Practices\MyFirstUserCOntrolProject\obj\Debug\MyFirstUserCOntrolProject.Form1.resources
+C:\Users\AKILZA\source\repos\Programming Advice\Programming_Advice_Practices\MyFirstUserCOntrolProject\obj\Debug\MyFirstUserCOntrolProject.Form2.resources
+C:\Users\AKILZA\source\repos\Programming Advice\Programming_Advice_Practices\MyFirstUserCOntrolProject\obj\Debug\MyFirstUserCOntrolProject.Properties.Resources.resources
+C:\Users\AKILZA\source\repos\Programming Advice\Programming_Advice_Practices\MyFirstUserCOntrolProject\obj\Debug\MyFirstUserCOntrolProject.csproj.GenerateResource.cache
+C:\Users\AKILZA\source\repos\Programming Advice\Programming_Advice_Practices\MyFirstUserCOntrolProject\obj\Debug\MyFirstUserCOntrolProject.csproj.CoreCompileInputs.cache
+C:\Users\AKILZA\source\repos\Programming Advice\Programming_Advice_Practices\MyFirstUserCOntrolProject\obj\Debug\MyFirstUserCOntrolProject.exe
+C:\Users\AKILZA\source\repos\Programming Advice\Programming_Advice_Practices\MyFirstUserCOntrolProject\obj\Debug\MyFirstUserCOntrolProject.pdb
