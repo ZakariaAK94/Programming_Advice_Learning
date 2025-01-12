@@ -4,7 +4,7 @@ using System.Data.SqlClient;
 public class Program
 {
 
-    static string ConnectionString = "Server =.;Database=ContactsDB;User Id=sa; Password=sa123456;";
+    static string ConnectionString = Environment.GetEnvironmentVariable("DB_CONNECTION_STRING_ContactsDB");
 
     static void SearchContactWithChoice(string StartsWith, int Choice)
     {

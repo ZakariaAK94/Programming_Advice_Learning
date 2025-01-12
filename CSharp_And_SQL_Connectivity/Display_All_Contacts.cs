@@ -5,7 +5,7 @@ using System.Data.SqlClient;
 
 public class Program
 {
-    static string connectionString = "Server=.;DataBase=ContactsDB;User Id=sa;Password =sa123456;";
+    static string connectionString = Environment.GetEnvironmentVariable("DB_CONNECTION_STRING_ContactsDB");
 
     static void PrintAllContacts()
     {
